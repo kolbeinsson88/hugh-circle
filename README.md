@@ -1,1 +1,2 @@
-# Challenge
+# Hugh Circles
+OpenCV project
