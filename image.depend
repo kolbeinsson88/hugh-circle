@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1495409383 source:c:\users\kolbeinsson\desktop\imgchallenge - copy - copy\main.cpp
+	<iostream>
+	<string>
+	"HughCircle.h"
+
+1495409552 c:\users\kolbeinsson\desktop\imgchallenge - copy - copy\hughcircle.h
+	<iostream>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<stdio.h>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	"Comparator.h"
+
+1495409346 source:c:\users\kolbeinsson\desktop\imgchallenge - copy - copy\hughcircle.cpp
+	"HughCircle.h"
+
+1495408067 c:\users\kolbeinsson\desktop\imgchallenge - copy - copy\comparator.h
+	<string>
+
+1495463578 source:c:\users\kolbeinsson\desktop\imgchallenge\hughcircle.cpp
+	"HughCircle.h"
+
+1495462648 c:\users\kolbeinsson\desktop\imgchallenge\hughcircle.h
+	<iostream>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<stdio.h>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	"Comparator.h"
+
+1495408067 c:\users\kolbeinsson\desktop\imgchallenge\comparator.h
+	<string>
+
+1495465038 source:c:\users\kolbeinsson\desktop\imgchallenge\main.cpp
+	<iostream>
+	<string>
+	"HughCircle.h"
+
